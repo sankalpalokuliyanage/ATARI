@@ -92,24 +92,29 @@ To watch your trained agent play after training (requires a .pth file in the mod
 ```bash
 python test.py
 ```
+
+
 ---
 
-##📊 Training Results
+
+## 📊 Training Results
 *Exploration: Epsilon starts at 1.0 (pure exploration) and decays to 0.1 over 1 million frames.
 
 *Performance: The agent typically starts outscoring the built-in Atari AI after approximately 700-1000 episodes.
 
 *Max Score: In Pong, the agent can achieve a maximum score of +21.
 
+
 ---
 
-##Developed by
+
+## Developed by
 L.C. Sankalpa Lokuliyanage
 
-##📜 References
+## 📜 References
 Mnih, V., Kavukcuoglu, K., Silver, D., et al. (2013). Playing Atari with Deep Reinforcement Learning.
 
-##📝 Acknowledgments
+## 📝 Acknowledgments
 Kyungpook National University (KNU) for providing the computational resources.
 
 
